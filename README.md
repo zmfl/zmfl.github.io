@@ -35,7 +35,7 @@
 
 -동영상
 
-[![Video Label](https://img.youtube.com/vi/GHcdHO9mz-4/0.jpg)](https://www.youtube.com/GHcdHO9mz-4)
+[![Video Label](https://img.youtube.com/vi/GHcdHO9mz-4/0.jpg)](https://youtu.be/GHcdHO9mz-4)
 
 <br><br>
 
