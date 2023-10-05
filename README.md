@@ -34,7 +34,7 @@
 ![image](https://github.com/zmfl/zmfl.github.io/assets/23565281/eb08b160-8b30-4aa9-aaa8-160eb6fafaaf)
 
 -동영상
-[![](https://github.com/zmfl/zmfl.github.io/assets/23565281/d8d0914c-27b6-480e-aa6e-35a90b64505b)](https://www.youtube.com/watch?v=GHcdHO9mz-4)
+[![Video Label](https://www.youtube.com/watch?v=GHcdHO9mz-4/0.jpg)](https://www.youtube.com/watch?v=GHcdHO9mz-4)
 
 <br><br>
 
