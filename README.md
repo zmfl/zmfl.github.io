@@ -188,5 +188,7 @@
 <img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/9f4a195c-aff0-41ba-b16a-fefbfb6931a3">
 
 ## 8-4. 용어정리
+<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/21ea6355-1a22-453f-818b-0be20673603e">
 
 # 9. 스토리보드
+
