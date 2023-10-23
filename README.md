@@ -48,7 +48,7 @@
   
 |이미지|
 |:----:|
-|<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/eb08b160-8b30-4aa9-aaa8-160eb6fafaaf.png" width="700" height="400"/>|
+|<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/eb08b160-8b30-4aa9-aaa8-160eb6fafaaf" width="700" height="400"/>|
 |동영상|
 |[![Video Label](https://img.youtube.com/vi/GHcdHO9mz-4/0.jpg)](https://youtu.be/GHcdHO9mz-4)|
 
@@ -207,4 +207,4 @@
 <img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/21ea6355-1a22-453f-818b-0be20673603e">
 
 # 9. 스토리보드 <a name='9'></a>
-
+<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/1605152f-7f0a-4f4d-bab3-4386ec9b220e">
