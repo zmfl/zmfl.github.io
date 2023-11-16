@@ -230,4 +230,8 @@
 <img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/21ea6355-1a22-453f-818b-0be20673603e">
 
 # 9. 스토리보드 <a name='9'></a>
-<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/1605152f-7f0a-4f4d-bab3-4386ec9b220e">
+<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/1605152f-7f0a-4f4d-bab3-4386ec9b220e">  
+
+# 10. 6주 요구사항
+
+
