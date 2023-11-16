@@ -44,8 +44,8 @@
 <br><br>
 
 # 3. [관련 이미지 & 동영상] <a name='3'></a>
-<div align=center>
-  
+<div align=center>  
+
 |이미지|
 |:----:|
 |<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/eb08b160-8b30-4aa9-aaa8-160eb6fafaaf" width="700" height="400"/>|
@@ -117,7 +117,8 @@
 `건드리지 않아도 됩니다.`
 
 # 7. 게임시스템디자인 <a name='7'></a>
-## 7-1. 게임 오브젝트 분해
+## 7-1. 게임 오브젝트 분해  
+
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|랑이|<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/d0505d56-a6ee-4a1b-8bb8-bdc1dfaed6c8" width="150" height="150"/>|
@@ -130,8 +131,8 @@
 |8|동굴|<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/9d831c33-728a-4c21-8faf-72c4c74e41a7" width="150" height="150"/>|
 |9|텍스트|미정|
 |10|시스템|<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/a521df19-5091-445f-813b-70e6de721f84" width="150" height="150"/>|
-|11|선택지|<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/97de5072-0aa9-4e5a-ab52-1a8d5869db2f" width="150" height="150"/>|
-
+|11|선택지|<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/97de5072-0aa9-4e5a-ab52-1a8d5869db2f" width="150" height="150"/>|  
+  
 ## 7-2. 파라미터(속성)
 1) 오브젝트 : 랑이, 나래, 세희, 바둑이
 
