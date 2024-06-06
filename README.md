@@ -56,7 +56,7 @@
 
 # 4. [대표 이미지] <a name='4'></a>  
 
-<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/d0acb966-5037-478a-a304-80eb03195ba0" width="700" height="400"/>
+<img src="https://github.com/zmfl/zmfl.github.io/assets/23565281/14f49849-36fe-4a9b-aa68-ea040c2fc6ac" width="700" height="400"/>
 
 <br><br>
 
